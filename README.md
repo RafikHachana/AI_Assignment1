@@ -1,2 +1,3 @@
 # AI_Assignment1
-Keeping track of the versions of my Prolog assignment
+My submission for assignment 1 from the AI course.
+The task consists of solving a grid problem using the Prolog programming language.
